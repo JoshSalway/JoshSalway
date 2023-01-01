@@ -6,7 +6,7 @@ Hi there! I'm Josh, a full-stack developer specializing in Laravel development. 
 
 - Laravel: Expert level experience with Laravel, including MVC architecture, routing, authentication, and database management.
 - PHP: Strong understanding of PHP and its core concepts, including object-oriented programming and security best practices.
-- MySQL: Proficient in creating and querying MySQL databases, including advanced features such as triggers and stored procedures.
+- MySQL: Proficient in creating and querying MySQL databases.
 - HTML/CSS: Experience with front-end development, including responsive design and cross-browser compatibility.
 - Git: Proficient in using Git for version control and collaboration.
 
