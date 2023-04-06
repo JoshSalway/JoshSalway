@@ -13,4 +13,4 @@ Hi there! I'm Josh, a full-stack developer specializing in Laravel development. 
 ## Contact
 - LinkedIn: https://linkedin.com/in/joshsalway
 - Twitter: https://twitter.com/josh_salway
-- Work: Looking for work, hire me!
+- Work: Looking for work, hire me! (contact me via LinkedIn)
