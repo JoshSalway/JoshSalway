@@ -3,5 +3,5 @@ I’m a developer from the Gold Coast, Australia. I focus on creating practical 
 
 Outside of work, I’m into gaming, cycling, and working on tech-driven side projects. I’m always up for learning new things and taking on challenges.  
 
-**Contact:**  
-[LinkedIn](https://linkedin.com/in/joshsalway)
+**Website:**  
+[JoshSalway.com](https://joshsalway.com)
