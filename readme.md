@@ -1,7 +1,7 @@
-### G’day, I’m Josh Salway 👋  
-I’m a developer from the Gold Coast, Australia. I focus on creating practical applications that solve real-world problems, with experience in Laravel and full-stack development.  
+### G'day, I'm Josh Salway 👋  
+I'm a full-stack developer from the Gold Coast, Australia. I build practical applications that solve real-world problems, using whatever tools fit best.  
 
-Outside of work, I’m into gaming, cycling, and working on tech-driven side projects. I’m always up for learning new things and taking on challenges.  
+Outside of work, I'm into gaming, cycling, and working on side projects. Always up for learning new things and taking on challenges.  
 
 **Website:**  
-[JoshSalway.com](https://joshsalway.com)
+[joshsalway.com](https://joshsalway.com)
